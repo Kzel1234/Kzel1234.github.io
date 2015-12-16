@@ -1,0 +1,35 @@
+body {
+
+  background-color: #ff4d4d;
+}
+
+h2 {
+
+  margin-top: 50px;
+  text-align: center;
+  color: black;
+
+}
+
+nav {
+  margin-top: -100px
+}
+
+img {
+  margin-top: 70px
+}
+
+aside {
+  height: 100px;
+  width: 300px;
+  background-color: white;
+  margin-top: 200px
+}
+
+header {
+height: 150px
+}
+
+a:visited {
+  color: blue
+}
